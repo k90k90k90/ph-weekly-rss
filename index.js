@@ -8,7 +8,7 @@ dayjs.extend(weekOfYear)
 const feed = new Feed({
   title: 'Product Hunt weekly RSS feed',
   description: 'The missing RSS feed for ProductHunt weekly top posts',
-  link: 'https://github.com/headllines/producthunt-daily-rss',
+  link: 'https://github.com/k90k90k90/ph-weekly-rss',
 });
 
 const items = Array(7).fill()
