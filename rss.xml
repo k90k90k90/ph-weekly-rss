@@ -4,50 +4,50 @@
         <title>Product Hunt weekly RSS feed</title>
         <link>https://github.com/k90k90k90/ph-weekly-rss</link>
         <description>The missing RSS feed for ProductHunt weekly top posts</description>
-        <lastBuildDate>Sun, 30 Nov 2025 06:39:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Dec 2025 06:37:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Product Hunt weekly top posts @2025/50]]></title>
+            <link>https://www.producthunt.com/leaderboard/weekly/2025/50</link>
+            <guid>https://www.producthunt.com/leaderboard/weekly/2025/50</guid>
+            <pubDate>Sun, 07 Dec 2025 06:37:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2025/49]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2025/49</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2025/49</guid>
-            <pubDate>Sun, 30 Nov 2025 06:39:19 GMT</pubDate>
+            <pubDate>Sun, 30 Nov 2025 06:37:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2025/48]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2025/48</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2025/48</guid>
-            <pubDate>Sun, 23 Nov 2025 06:39:19 GMT</pubDate>
+            <pubDate>Sun, 23 Nov 2025 06:37:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2025/47]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2025/47</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2025/47</guid>
-            <pubDate>Sun, 16 Nov 2025 06:39:19 GMT</pubDate>
+            <pubDate>Sun, 16 Nov 2025 06:37:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2025/46]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2025/46</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2025/46</guid>
-            <pubDate>Sun, 09 Nov 2025 06:39:19 GMT</pubDate>
+            <pubDate>Sun, 09 Nov 2025 06:37:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2025/45]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2025/45</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2025/45</guid>
-            <pubDate>Sun, 02 Nov 2025 06:39:19 GMT</pubDate>
+            <pubDate>Sun, 02 Nov 2025 06:37:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2025/44]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2025/44</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2025/44</guid>
-            <pubDate>Sun, 26 Oct 2025 06:39:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Product Hunt weekly top posts @2025/43]]></title>
-            <link>https://www.producthunt.com/leaderboard/weekly/2025/43</link>
-            <guid>https://www.producthunt.com/leaderboard/weekly/2025/43</guid>
-            <pubDate>Sun, 19 Oct 2025 06:39:19 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 06:37:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
