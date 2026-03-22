@@ -4,50 +4,50 @@
         <title>Product Hunt weekly RSS feed</title>
         <link>https://github.com/k90k90k90/ph-weekly-rss</link>
         <description>The missing RSS feed for ProductHunt weekly top posts</description>
-        <lastBuildDate>Sun, 15 Mar 2026 07:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 07:00:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Product Hunt weekly top posts @2026/13]]></title>
+            <link>https://www.producthunt.com/leaderboard/weekly/2026/13</link>
+            <guid>https://www.producthunt.com/leaderboard/weekly/2026/13</guid>
+            <pubDate>Sun, 22 Mar 2026 07:00:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2026/12]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2026/12</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2026/12</guid>
-            <pubDate>Sun, 15 Mar 2026 07:09:18 GMT</pubDate>
+            <pubDate>Sun, 15 Mar 2026 07:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2026/11]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2026/11</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2026/11</guid>
-            <pubDate>Sun, 08 Mar 2026 07:09:18 GMT</pubDate>
+            <pubDate>Sun, 08 Mar 2026 07:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2026/10]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2026/10</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2026/10</guid>
-            <pubDate>Sun, 01 Mar 2026 07:09:18 GMT</pubDate>
+            <pubDate>Sun, 01 Mar 2026 07:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2026/9]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2026/9</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2026/9</guid>
-            <pubDate>Sun, 22 Feb 2026 07:09:18 GMT</pubDate>
+            <pubDate>Sun, 22 Feb 2026 07:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2026/8]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2026/8</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2026/8</guid>
-            <pubDate>Sun, 15 Feb 2026 07:09:18 GMT</pubDate>
+            <pubDate>Sun, 15 Feb 2026 07:00:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Product Hunt weekly top posts @2026/7]]></title>
             <link>https://www.producthunt.com/leaderboard/weekly/2026/7</link>
             <guid>https://www.producthunt.com/leaderboard/weekly/2026/7</guid>
-            <pubDate>Sun, 08 Feb 2026 07:09:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Product Hunt weekly top posts @2026/6]]></title>
-            <link>https://www.producthunt.com/leaderboard/weekly/2026/6</link>
-            <guid>https://www.producthunt.com/leaderboard/weekly/2026/6</guid>
-            <pubDate>Sun, 01 Feb 2026 07:09:18 GMT</pubDate>
+            <pubDate>Sun, 08 Feb 2026 07:00:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
